@@ -13,7 +13,7 @@ __Udacity Deep Learning Nanodegree Projects:__
 
 4. __UD4_language_translation:__ In this project, I took a peek into the realm of neural network machine translation. I trained a sequence to sequence model on a dataset of English and French sentences and used it to translate new sentences from English to French. Click [here](https://nbviewer.jupyter.org/github/CharlieKing7/data-science-projects/blob/master/UD4_language_translation.ipynb) to see my work.
 
-5. __UD5_face_generation:__ In this project, I use generative adversarial networks to generate both MNIST images and human faces. I trained everything using an AWS GPU optimized instance. Click [here]() to see my work.
+5. __UD5_face_generation:__ In this project, I use generative adversarial networks to generate both MNIST images and human faces. I trained everything using an AWS GPU optimized instance. Click [here](https://nbviewer.jupyter.org/github/CharlieKing7/data-science-projects/blob/master/UD5_face_generation.ipynb) to see my work.
 
 
 __Other Projects:__
