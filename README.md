@@ -23,7 +23,7 @@ __Other Projects:__
 
 __Utilities:__
 
-1. __utility1_connection:__ With this class you can query your databases using 3 lines of code. It's based on SQLAlchemy and seamlessy handles SQL Server Port Forwarding and SSH Tunnel Creation for you. I always need to convert SQL query results to pandas dataframes and I built this class to speed up my work. You can get your query results using a with/as statement. 
+1. __utility1_connection:__ With this class you can query your databases using 3 lines of code. It's based on SQLAlchemy and seamlessly handles SQL Server Port Forwarding and SSH Tunnel Creation for you. I always need to convert SQL query results to pandas dataframes and I built this class to speed up my work. You can get your query results using a with/as statement. 
 
 ```python
 query = "SELECT * FROM table;"
